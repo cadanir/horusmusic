@@ -126,7 +126,7 @@ Create a folder for the project and install *symfony-cli*.
 
 projectName=horusmusic
 projectDir=~/wrk/php/symfony/$projectName
-mkdir $projectDir
+mkdir -p $projectDir
 cd $projectDir
 ```
 

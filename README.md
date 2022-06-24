@@ -198,7 +198,7 @@ class Triangle
 //...
 EOD
 
-cat > src/Service/Triangle.php <<-EOD
+cat > src/Service/GeometryCalculator.php <<-EOD
 <?php
 // src/Service/GeometryCalculator.php
 namespace App\Service;

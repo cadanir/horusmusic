@@ -1,8 +1,5 @@
 # horusmusic
 Little Symfony project for testing purpose.
-# Horus Music
-
-**Little Symfony project for testing purpose**
 
 **Message from Punam Patel:**
 

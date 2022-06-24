@@ -160,7 +160,7 @@ cd $projectDir/$projectName
 composer require symfony/serializer
 composer require symfony/serializer-pack
 composer require symfony/profiler-pack
-symfony server:start  # alternatively, you can run start.sh
+symfony server:start  # alternatively, you can run:  ./start.sh
 ```
 
 Also we configure Symfony session like the following:

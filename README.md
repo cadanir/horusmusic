@@ -93,7 +93,7 @@ www.horusmusic.global
 - project repository:
   -  https://github.com/cadanir/horusmusic
 - Monthly salary or the equivalent as freelance/contractor:
-  -  I will let this to your discretion *or ~3500-4000 GBP/month.*
+  -  I will accept your offer...
 
 
 ### Tasks to fulfill this request

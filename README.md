@@ -4,18 +4,14 @@ Little Symfony project for testing purpose.
 **Message from Punam Patel:**
 
 ```
-Horus Music Application
-
-Punam Patel <punam.patel@horusmusic.global>
 	
 Hi Cengiz, 
  
-Welcome to the job application process for work at Horus Music on open position for Senior Backend PHP Developer!
+...
 
-We are offering a full-time remote job in an already formed web development department. We need to upgrade our web application into a web platform, and we are expanding our web development team. Primarily we use PHP and MySQL databases with the Symfony framework in Amazon environment.
- 
+We would like you to show us your best programming practices... to solve ONE AND ONLY TASK.
 
-We would like you to show us your best programming practices using all your skills and suitable techniques to solve ONE AND ONLY TASK. We want you to show off all your skills for this programmer's problem so that we can meet you better and understand your programming habits. Don't hesitate to write a little bit more code just to show us that you know even more. Let's get to the problem straight forward!
+Let's get to the problem straight forward!
 
 1.) ONE AND ONLY TASK
 
@@ -45,28 +41,29 @@ We would like you to show us your best programming practices using all your skil
 - create routes:
   [GET] /triangle/{a}/{b}/{c}
   [GET] /circle/{radius}
-- routes must return JSON with serialized objects and calculated surfaces and diameters. For example:
-{
- "type": "circle",
- "radius": 2.0,
- "surface": 12.56,
- "circumference": 12.56,
-}
+- routes must return JSON with serialized objects and calculated surfaces and diameters. 
+  For example:
+	{
+	 "type": "circle",
+	 "radius": 2.0,
+	 "surface": 12.56,
+	 "circumference": 12.56,
+	}
 
-or
+  or
 
-{
- "type": "triangle",
- "a": 3.0,
- "b": 4.0,
- "c": 5.0,
- "surface": 6.0,
- "circumference": 12.0,
-}
+	{
+	 "type": "triangle",
+	 "a": 3.0,
+	 "b": 4.0,
+	 "c": 5.0,
+	 "surface": 6.0,
+	 "circumference": 12.0,
+	}
 
 - create service/or similar structure for the given framework (for example app.geometry_calculator)
 ```
-   **Sorry I have not understood this point, so instead I will add another route:** 
+**Sorry I have not understood this point, so instead I will add another route:** 
    *[GET] /geometry_calculator*
      
 ```  
@@ -80,21 +77,8 @@ or
 2.) Also, we would like to know more about how much monthly salary will suit your needs?
 
 Kind regards, 
-
-Punam Patel
-Phone: +44 (0) 116 253 0203
-Email: punam.patel@horusmusic.global
-Head Office:  The Old School, 346 Loughborough Road, Leicester, LE4 5PJ, United Kingdom 	 
-www.horusmusic.global 
+... 
 ```
-
-### Answer
-
-- project repository:
-  -  https://github.com/cadanir/horusmusic
-- Monthly salary or the equivalent as freelance/contractor:
-  -  I will accept your offer...
-
 
 ### Tasks to fulfill this request
 

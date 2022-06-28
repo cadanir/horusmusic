@@ -1,3 +1,3 @@
 #!/bin/bash
 
-symfony server:start
+symfony server:start   # or symfony serve
